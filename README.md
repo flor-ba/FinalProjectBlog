@@ -5,6 +5,7 @@ Este blog es parte del proyecto final del curso de Python de CoderHouse, donde u
 Instalar Python desde la [web oficial](https://www.python.org/downloads/)
 
 1.  Clonar el proyecto (o descargar el archivo comprimido)
+
         -    *git clone https://github.com/flor-ba/FinalProjectBlog.git*
 
 2.  Instalar las dependencias del proyecto:
@@ -69,8 +70,8 @@ a sus mensajes y cerrar la sesión.
 
 ***
 ### Video explicativo
-En el siguiente link encontrarás un video mostrando las funcionalidades del Blog -> [https://1drv.ms/v/s!AjKmw0Z03QVFiT7yArEx7s6sQmws](https://1drv.ms/v/s!AjKmw0Z03QVFiT7yArEx7s6sQmws)
+En el siguiente link encontrarás un video mostrando las funcionalidades del Blog -> [Presentación](https://1drv.ms/v/s!AjKmw0Z03QVFiT7yArEx7s6sQmws)
 
 ***
 ### Contacto
-Creado por mí:) Flor [https://github.com/flor-ba](https://github.com/flor-ba) - no dudes en contactarme!
+Creado por mí :) [FLor](https://github.com/flor-ba) - no dudes en contactarme!

@@ -4,9 +4,8 @@ Este blog es parte del proyecto final del curso de Python de CoderHouse, donde u
 ### Instrucciones:
 Instalar Python desde la [web oficial](https://www.python.org/downloads/)
 
-1.  Clonar el proyecto (o descargar el archivo comprimido):
-
-    +  git clone https://github.com/flor-ba/FinalProjectBlog.git
+1.  Clonar el proyecto (o descargar el archivo comprimido)
+        -    *git clone https://github.com/flor-ba/FinalProjectBlog.git*
 
 2.  Instalar las dependencias del proyecto:
 
@@ -15,19 +14,23 @@ Instalar Python desde la [web oficial](https://www.python.org/downloads/)
         -    *pip install django-ckeditor*
 
 3. Entrar a la carpeta del proyecto
-    -    ***cd FinalProjectBlog***
+
+        -    *cd FinalProjectBlog*
 
 4. Realizar las migraciones para generar la base de datos
-    -    ***python manage.py makemigrations***
-    -    ***python manage.py migrate***
+
+        -    *python manage.py makemigrations*
+        -    *python manage.py migrate*
 
 5. Podes crear un superusuario (=admin)
-    -    ***python manage.py createsuperuser***
+
+        -    *python manage.py createsuperuser*
 
 6. Correr la aplicacion
-    -    ***python manage.py runserver***
 
-7. Ya poedes ingresar a la web
+        -    *python manage.py runserver*
+
+7. Ya podes ingresar a la web
     -    [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 ***
@@ -66,8 +69,8 @@ a sus mensajes y cerrar la sesión.
 
 ***
 ### Video explicativo
-En el siguiente link encontrarás un video mostrando las funcionalidades del Blog -> [https://1drv.ms/v/s!AjKmw0Z03QVFiT7yArEx7s6sQmws](Presentación)
+En el siguiente link encontrarás un video mostrando las funcionalidades del Blog -> [https://1drv.ms/v/s!AjKmw0Z03QVFiT7yArEx7s6sQmws](https://1drv.ms/v/s!AjKmw0Z03QVFiT7yArEx7s6sQmws)
 
 ***
 ### Contacto
-Creado por [https://github.com/flor-ba](Flor) - no dudes en contactarme!
+Creado por mí:) Flor [https://github.com/flor-ba](https://github.com/flor-ba) - no dudes en contactarme!

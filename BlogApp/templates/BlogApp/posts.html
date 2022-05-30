@@ -10,13 +10,14 @@
 </div>
 
 <!-- Buscar Post -->
-<h3>You can search for a title:</h3>
+<div class="w3-panel">
+    <h3>You can search for a title:</h3>
 
-<form action="{% url 'blogapp:SearchResult' %}" method="GET">
-    <input type="text" name="title" id="title">
-    <input button type="submit" class="w3-button w3-round-large w3-button w3-indigo" value="Search">
-</form>
-
+    <form action="{% url 'blogapp:SearchResult' %}" method="GET">
+        <input type="text" name="title" id="title">
+        <input button type="submit" class="w3-button w3-round-large w3-button w3-indigo" value="Search">
+    </form>
+</div>
 
 {% if posts %}
     

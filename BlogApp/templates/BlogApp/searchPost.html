@@ -19,10 +19,10 @@
 
 {% else %}
 <div class="w3-panel w3-blue-gray">
-    <h5>We don't have any post for that title, you can be the first in writing about it!</h5>
+    <h5>We don't have any post for that title. You can be the first in writing about it!</h5>
 </div>
 <div class="w3-bar w3-padding-32">
-    <a button class="w3-button w3-round-large w3-button w3-large w3-indigo" href="{% url 'blogapp:PostCreate' %}"><i class="fa fa-edit"></i> Create New Post</a>
+    <a button class="w3-button w3-round-large w3-button w3-large w3-indigo" href="{% url 'blogapp:PostForm' %}"><i class="fa fa-edit"></i> Create New Post</a>
 </div>
 
 {% endif %}
